@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gfx">
+        <file>gfx/Copy.bmp</file>
+        <file>gfx/Cut.bmp</file>
+        <file>gfx/DeleteSticky.bmp</file>
+        <file>gfx/New.bmp</file>
+        <file>gfx/Open.bmp</file>
+        <file>gfx/Paste.bmp</file>
+        <file>gfx/Save.bmp</file>
+    </qresource>
+</RCC>
